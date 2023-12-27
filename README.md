@@ -39,7 +39,7 @@
 
 
 ### last listened to:  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7pvu30qxx2un0wjeutkngjqgi&cover_image=true&theme=novatorem&show_offline=false&background_color=5a22b2&interchange=true&bar_color=00000f&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7pvu30qxx2un0wjeutkngjqgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5a22b2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=7pvu30qxx2un0wjeutkngjqgi&redirect=true)
 </td><td valign="top" width="33%">
 
 
