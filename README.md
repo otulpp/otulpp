@@ -6,7 +6,7 @@
 ### <div align="center"> hello! I'm otulpp, a web developer and aspiring programmer. ✩₊˚.⋆☾⋆⁺₊✧</div>  
   
 
-- i’m currently working on [fox](https://github.com/otulpp/fox) 💟  
+- i’m currently working on [sprring modpack 2024]([https://github.com/otulpp/fox](https://github.com/otulpp/spring-modpack-2024)) 💟  
   
 
 - currently learning: Python, C++, CSS (again)
